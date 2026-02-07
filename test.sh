@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "adding unit testing"
+echo "adding unit testing of b"
